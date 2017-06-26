@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Blog Reader
 //
-//  Created by Rob Percival on 05/07/2016.
-//  Copyright © 2016 Appfish. All rights reserved.
+//  Created by Kinshuk Singh on 02/06/2017.
+//  Copyright © 2017 Ksk. All rights reserved.
 //
 
 import UIKit
